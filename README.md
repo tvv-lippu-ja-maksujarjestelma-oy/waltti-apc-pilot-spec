@@ -66,11 +66,11 @@ The MQTT broker for the development environment is at `dev.mqtt.apc.lmj.fi`.
 
 You can use the development environment for your research and development of the counting system.
 
-Do not send personally sensitive data to the development environment.
-
 We allow you both to publish and to subscribe onto your messages in the development environment.
 
 However, in the production environment you will only be able to publish messages.
+
+The pilot phase of the project uses the development environment.
 
 ## MQTT parameters
 
