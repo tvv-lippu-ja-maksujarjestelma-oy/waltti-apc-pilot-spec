@@ -1,3 +1,8 @@
+# DEPRECATED
+
+This repository has served its purpose and is no longer used.
+Instead, refer to the production specification at [waltti-apc-vehicle-specification](https://github.com/tvv-lippu-ja-maksujarjestelma-oy/waltti-apc-vehicle-specification).
+
 # waltti-apc-pilot-spec
 
 This repository contains the technical specifications for the automatic passenger counting (APC) pilot by Waltti.
